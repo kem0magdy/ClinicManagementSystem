@@ -25,6 +25,7 @@ shall allow the user to edit the patient information. If not, the system shall
 display incorrect ID message.<br />
 
 3. Reserve a slot with the doctor:
+
 By default there are 5 available slots, 2pm to 2:30pm, 2:30pm to 3pm, 3pm to
 3:30pm, 4pm to 4:30pm and 4:30pm to 5pm. Upon opening of this window,
 the system shall display the available slots. The admin shall enter the patient
@@ -32,10 +33,11 @@ ID and the desired slot. The reserved slot shall not appear again in the next
 patient reservation.<br />
 
 4. Cancel reservation:
+
 The admin can cancel a reservation by entering the patient ID. This
 reservation shall be shown again in the available slots window.<br />
 
-#In the user mode
+# In the user mode
 There is no password. The system allows the following features:<br />
 
 1. View patient record.
