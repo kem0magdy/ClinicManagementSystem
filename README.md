@@ -2,7 +2,7 @@
 A clinic managment system created by me Starts in : 25/12/2020 -> Finshied in : 28/12/2020 <br /><br />
 Descreption:<br />
 
-Write a C code for clinic management system. At the beginning of the system it asks
+A C code for clinic management system. At the beginning of the system it asks
 the user to choose between admin mode and user mode.<br />
 
 # In admin mode
